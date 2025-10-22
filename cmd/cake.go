@@ -13,7 +13,7 @@ var cakeCmd = &cobra.Command{
 	Long:  ``,
 	Run: func(cmd *cobra.Command, args []string) {
 		runner.NewEthRunner().SniperUniCake(consts.ChainTypeBsc)
-	},
+	} ,
 }
 
 func init() {

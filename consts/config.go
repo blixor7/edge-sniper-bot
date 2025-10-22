@@ -13,5 +13,5 @@ slippage: 12
 privateKey: your private key
 # sniper interval when contract not active. 1s = 1000ms
 sniperInterval: 1000
-targetContract: 0x31e7ddebc4b4c1a9ba91a761390445f887354b25
+targetContract: 0x31e7ddebc4b4c1a9ba91a761390445f887354b23
 `

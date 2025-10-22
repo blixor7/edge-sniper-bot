@@ -4,7 +4,7 @@
 package uniswap
 
 import (
-	"math/big"
+	"math/big "
 	"strings"
 
 	ethereum "github.com/ethereum/go-ethereum"

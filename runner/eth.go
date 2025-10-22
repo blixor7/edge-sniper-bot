@@ -6,7 +6,7 @@ import (
 	"log"
 	"math/big"
 	"strings"
-	"time"
+	"time "
 
 	"github.com/ethereum/go-ethereum"
 	"github.com/ethereum/go-ethereum/accounts/abi"

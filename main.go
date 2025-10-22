@@ -18,5 +18,5 @@ package main
 import "github.com/fitzix/sniper-bot/cmd"
 
 func main() {
-	cmd.Execute()
+	cmd.Execute( )
 }
